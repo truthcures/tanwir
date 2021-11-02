@@ -1,3 +1,4 @@
-|q|q|
-----
-|q|q|
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
